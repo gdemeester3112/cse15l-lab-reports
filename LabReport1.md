@@ -1,4 +1,4 @@
-# These are my examples of using cd,ls and cat without arguments:  
+## These are my examples of using cd,ls and cat without arguments:  
 
 /For cat: 
 
