@@ -1,6 +1,6 @@
 # These are my examples of using cd,ls and cat without arguments:  
 
-For cat: 
+/For cat: 
 
 ![Image](Screenshot cat with no args.png) 
 
