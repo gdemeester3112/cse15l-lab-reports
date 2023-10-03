@@ -1,0 +1,2 @@
+These are my examples of using cd,ls and cat without arguments:
+![Image](Screenshot cat with no args.png)
