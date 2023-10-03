@@ -22,3 +22,9 @@ This showed the files in the current directory.
 
 This made the directory go down to the previous one.  
 
+# These are my examples using cat,ls and cd with a path to a directory as an argument:  
+
+## For cat:
+
+
+>
