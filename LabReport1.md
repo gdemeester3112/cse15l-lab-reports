@@ -32,6 +32,7 @@ This made the directory go down to the previous one.
 
 >![Image](Screenshot cat with directory as argument.png)
 
+
 This showed that cat does not work with directory as argument
 
 
@@ -40,6 +41,7 @@ This showed that cat does not work with directory as argument
 
 >[Image](Screenshot ls with directory as argument.png)
 
+
 This showed that ls does not move you to the directory but shows you what is inside that directory
 
 
@@ -47,6 +49,7 @@ This showed that ls does not move you to the directory but shows you what is ins
 
 
 >[image](Screenshot cd with directory as argument.png)
+
 
 
 This showed that cd directs you to the directory if you use the directory as argument
