@@ -1,13 +1,20 @@
-## These are my examples of using cd,ls and cat without arguments:  
+# These are my examples of using cd,ls and cat without arguments:  
 
-For cat:
+## For cat:
 
 
 > ![Image](Screenshot cat with no args.png) 
 
 The terminal froze. 
 
-For ls:  
+## For ls:  
 
 
->![Image]
+>![Image](Screenshot ls with no args.png)
+
+This showed the files in the current directory.
+
+## For cd:  
+
+
+>
