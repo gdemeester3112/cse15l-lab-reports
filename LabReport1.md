@@ -17,4 +17,8 @@ This showed the files in the current directory.
 ## For cd:  
 
 
->
+>![Image](Screenshot cd with no args.png)
+
+
+This made the directory go down to the previous one.  
+
